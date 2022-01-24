@@ -1,11 +1,1 @@
- Volume in drive D has no label.
- Volume Serial Number is 3DD8-66A0
-
- Directory of D:\Raju\ex
-
-24-01-2022  21:32    <DIR>          .
-24-01-2022  21:32    <DIR>          ..
-24-01-2022  21:26                 7 index.txt
-24-01-2022  21:32                 0 test.txt
-               2 File(s)              7 bytes
-               2 Dir(s)  84,636,102,656 bytes free
+bye
